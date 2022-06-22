@@ -16,3 +16,4 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
         RX errors 0  dropped 0  overruns 0  frame 0
         TX packets 1803  bytes 169842 (169.8 KB)
         TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+ 21/6/2022 22:45
