@@ -1,0 +1,18 @@
+Di Pino Matas
+enp0s3: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.0.2.15  netmask 255.255.255.0  broadcast 10.0.2.255
+        inet6 fe80::d960:76d5:ea42:816d  prefixlen 64  scopeid 0x20<link>
+        ether 08:00:27:23:4a:12  txqueuelen 1000  (Ethernet)
+        RX packets 28177  bytes 33505208 (33.5 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 11701  bytes 2205243 (2.2 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 1803  bytes 169842 (169.8 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 1803  bytes 169842 (169.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
