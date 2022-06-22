@@ -9,3 +9,10 @@ Vínculo: dirección IPv6 local. . . : fe80::8ca8:54a4:4180:d916%5
 Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.14
 Máscara de subred . . . . . . . . . . . . : 255.255.255.0
 21/6/2022 22:35
+
+Di Pino Matias	
+Vínculo: dirección IPv6 local. . . : fe80::1992:aa30:21ee:2c38%9
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.167
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+Puerta de enlace predeterminada . . . . . : 192.168.0.1
+21/6/2022  22:38	
