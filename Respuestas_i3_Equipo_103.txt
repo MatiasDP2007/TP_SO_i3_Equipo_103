@@ -11,4 +11,11 @@ G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedid
 A-El master queda guardado con todos los cambios 
 B-Si, por que es el mismo que creo el repositorio
 C-Primero utilizamos el comando git checkout main para pararme sobre la rama principal, luego realize un git merge sposaro(La rama creada por gamma) y despues de eso, un git add ., git commit -m " ", git push
-
+D-Si quedan actualizadas una ves que se realiza el push correspondiente.
+E el problema que tuvimos fue que hicimos el merge en una rama equivocada porque no le prestamos atencion a la rama en la que estabamos parados.
+F-  git pull		
+    git checkout sposaro	
+    git add .		
+    git commit -m "Gamma "
+    git push
+G-
